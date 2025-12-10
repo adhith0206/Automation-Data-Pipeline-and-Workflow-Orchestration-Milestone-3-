@@ -1,0 +1,2 @@
+# Automation-Data-Pipeline-and-Workflow-Orchestration-Milestone-3-
+Repository ini merupakan salah satu project milestones yang dilakukan di Bootcamp Hacktiv8. Project ini bertujuan untuk mengeksplorasi dan memvalidasi dataset mengenai health-related yang berfokus pada konsumsi kopi secara global. Project ini memuat data pipeline ETL, validasi data menggunakan Great Expectations, dan data disimpan di MongoDB.
